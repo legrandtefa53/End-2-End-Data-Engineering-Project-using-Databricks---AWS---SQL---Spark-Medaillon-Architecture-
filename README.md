@@ -19,7 +19,7 @@ The matter : They don't have a proper Data Engineering system.
 ```
 Therefore, the goal is to build a **clean, unified, scalable data platform** for both companies. The tech stack data engineering project is :
 
-- Databricks (Free Edition)
+- Databricks 
 - AWS S3
 - Python
 - Spark & SQL
